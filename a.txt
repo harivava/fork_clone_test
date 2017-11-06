@@ -1,1 +1,1 @@
-Added file A
+Added file A - Modified file A.txt
